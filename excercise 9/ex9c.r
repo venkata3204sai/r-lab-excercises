@@ -1,0 +1,5 @@
+n<-c("sai","murli","aditya")
+r<-c(1, 19, 17)
+df<-data.frame(n, r)
+names(df)<-c("Name", "Roll No.")
+print(df)

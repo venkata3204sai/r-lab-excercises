@@ -1,0 +1,14 @@
+a<-5
+b<-3
+sum<-a+b
+print(sum)
+difference<-a-b
+print(difference)
+product<-a*b
+print(product)
+quotient<-a/b
+print(quotient)
+power<-a^b
+print(power)
+remainder<-a%%b
+print(remainder)
